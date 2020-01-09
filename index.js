@@ -3,3 +3,11 @@ function Scooter(year,color,model){
   this.color = color
   this.model = model
 }
+
+function Driver(name,age,experience){
+  return{
+    name,
+    age,
+    experience
+  }
+}
