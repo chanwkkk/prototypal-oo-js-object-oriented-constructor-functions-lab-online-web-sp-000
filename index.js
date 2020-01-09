@@ -1,4 +1,4 @@
-function Scooter(year,color,mode){
+function Scooter(year,color,model){
   this.year = year
   this.color = color
   this.model = model
